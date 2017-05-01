@@ -1,0 +1,4 @@
+Django==1.11
+celery==4.0.2
+-e git+git@github.com:mgaitan/miau.git
+
